@@ -16,7 +16,6 @@
 1. Клонируйте репозиторий:
     ```sh
     git clone https://github.com/Maurdihen/analyzer_banking_operations.git
-    cd analyzer_banking_operations
     ```
 
 2. Создайте и активируйте виртуальное окружение:
