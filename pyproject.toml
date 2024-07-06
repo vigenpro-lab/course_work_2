@@ -2,7 +2,7 @@
 name = "analyzer-banking-operations"
 version = "0.1.0"
 description = ""
-authors = ["Egor Arhipov <111359850+Maurdihen@users.noreply.github.com>"]
+authors = []
 readme = "README.md"
 
 [tool.poetry.dependencies]
